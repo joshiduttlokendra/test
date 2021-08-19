@@ -1,0 +1,2 @@
+[11-Aug-2021 06:18:51 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Session as Session because the name is already in use in /home/zqvtgxn0voc0/public_html/scoutin_devs/project/app/Http/Controllers/shopController.php on line 21
+[12-Aug-2021 09:11:33 UTC] PHP Fatal error:  Cannot use App\Models\servicebook as servicebook because the name is already in use in /home/zqvtgxn0voc0/public_html/scoutin_devs/project/app/Http/Controllers/serviceController.php on line 35
